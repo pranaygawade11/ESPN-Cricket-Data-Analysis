@@ -1,5 +1,5 @@
+#🏏 ESPN Cricket Data Analysis
 
-🏏 ESPN Cricket Data Analysis
 📌 Project Overview
 This project presents a comparative analysis of India and South Africa cricket teams using data sourced from ESPN Cricinfo.
 The analysis is developed in Microsoft Power BI with a focus on batting, bowling, and fielding performance through interactive dashboards.
